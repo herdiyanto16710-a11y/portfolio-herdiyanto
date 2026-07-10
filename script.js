@@ -1,1 +1,1 @@
-console.log("Portfolio Herdiyanto siap!");
+console.log("Website Portfolio Herdiyanto berhasil dimuat!");
